@@ -1,5 +1,5 @@
 import streamlit as st
-st.title("Anime Recommender system")
+st.title("Find Anime")
 import streamlit as st
 import pickle
 import pandas as pd
